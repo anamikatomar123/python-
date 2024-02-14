@@ -59,3 +59,25 @@ e = addC(24,5)
 print(e)
 print(e + e)
 print(e * e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
