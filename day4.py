@@ -49,6 +49,14 @@ for x in range(6,1,-1):
           continue
      print(x)
 
+#11
+for x in range(7,1,-1):
+     print(x)
+
+
+
+
+     
 
 
 
